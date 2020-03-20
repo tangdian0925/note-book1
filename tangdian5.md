@@ -10,4 +10,4 @@
 * 右上角点击中间的图标。
 
 
-![1](/Users/edz/Desktop/截图图片)
+![1](https://github.com/tangdian0925/note-book1/blob/master/1.png)
